@@ -1,11 +1,6 @@
 console.log('typescript tutorial')
-interface someValue {
-  name: string
-  id: number
-}
 
-let someObj: someValue = {
-  name: 'random',
-  id: 123,
-}
-console.log(someObj)
+let awesomeName: string = 'shakeAndbake'
+awesomeName = 'something'
+awesomeName = awesomeName.toUpperCase()
+console.log(awesomeName)
