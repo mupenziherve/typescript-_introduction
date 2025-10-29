@@ -7,5 +7,6 @@ console.log(awesomeName);
 
 let amount: number = 20;
 amount = 21 -1;
-console.log
+console.log(amount)
 
+lorem lorzzzzzzzzzzzzzzzzzzzzz
